@@ -34,6 +34,7 @@ Config.Blip = {
     }
 }
 ```
+You can find all the sprites and colors for blips on the website: https://docs.fivem.net/docs/game-references/blips/#blips.
 
 # Support
 If you have any questions, I am available on my Discord server, which you can join using the following link: https://discord.gg/dZdn7JcndM
