@@ -14,5 +14,5 @@ client_scripts {
 }
 
 server_scripts {
-  'server/server.lua'
+  'server/updater.lua'
 }
