@@ -17,5 +17,5 @@ CreateThread(function()
         end
     end
 
-    PerformHttpRequest("https://raw.githubusercontent.com"..GitHubrepository.."/main/version", Checkversion, "GET")
+    PerformHttpRequest("https://raw.githubusercontent.com"..GitHubrepository.."/main/cBlips/version", Checkversion, "GET")
 end)
